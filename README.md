@@ -2,8 +2,20 @@
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies:
+
+```bash
+yarn
+```
+
+Run the development server:
 
 ```bash
 yarn dev
+```
+
+Format files:
+
+```bash
+yarn format
 ```
